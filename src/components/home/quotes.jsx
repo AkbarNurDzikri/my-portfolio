@@ -4,9 +4,9 @@ const Quotes = () => {
       <div className="pt-5 lg:pt-10 lg:w-1/2 lg:pl-16">
         <blockquote className="text-lg lg:text-2xl text-center lg:text-start mx-5 lg:-mt-72">
           <i>
-            "Dengan kode sebagai pena, saya menulis simfoni teknologi. Membentuk
+            Dengan kode sebagai pena, saya menulis simfoni teknologi. Membentuk
             masa depan di garis-garis algoritma, menuju cemerlang yang tak
-            terhingga."
+            terhingga.
           </i>
         </blockquote>
 
