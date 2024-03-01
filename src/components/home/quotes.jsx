@@ -11,7 +11,7 @@ const Quotes = () => {
         </blockquote>
 
         <a href="">
-          <div className="bg-sky-600 rounded-lg lg:rounded-full w-1/2 mx-auto lg:mx-0 lg:ml-6 p-2 lg:p-4 mt-10 text-center text-white font-bold text-xl lg:text-2xl">
+          <div className="bg-sky-600 rounded-lg lg:rounded-full w-1/2 mx-auto lg:mx-0 lg:ml-6 p-2 lg:p-4 mt-10 lg:mt-20 text-center text-white font-bold text-xl lg:text-2xl">
             Hubungi Saya
           </div>
         </a>
