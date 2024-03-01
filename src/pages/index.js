@@ -5,7 +5,7 @@ import Quotes from "@/components/home/quotes";
 
 const Home = () => {
   return (
-    <div className="bg-slate-100 py-24">
+    <div className="bg-slate-200 py-24">
       <Hero />
       <ShortProfile />
       <Stack />

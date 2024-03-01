@@ -7,7 +7,7 @@ const Hero = () => {
     <section>
       <div className="lg:flex">
         <div className="hidden lg:inline w-2/3 lg:h-60"></div>
-        <div className="w-full lg:w-1/2 h-60 relative flex justify-center lg:justify-end items-center shadow-slate-500 bg-sky-500 lg:bg-gradient-to-tr lg:from-sky-500 lg:to-teal-500 shadow-lg lg:rounded-l-2xl">
+        <div className="w-full lg:w-1/2 h-60 relative flex justify-center lg:justify-end items-center shadow-slate-500 bg-sky-600 lg:bg-gradient-to-tr lg:from-sky-600 lg:to-teal-500 shadow-lg lg:rounded-l-2xl">
           <Image
             src={blobIcon}
             className="hidden lg:w-[500px] lg:pl-10"
